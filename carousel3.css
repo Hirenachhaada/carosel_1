@@ -94,17 +94,17 @@ span{
     width:100%;
 }
 #one{
-    background-image: url("img/tree12.jpg") !important;
+    background-image: url("tree12.jpg") !important;
     width: 100px;
     height:67px
 }
 #two{
-    background-image: url("img/tree22.jpg") !important;
+    background-image: url("tree22.jpg") !important;
     width: 100px;
     height:67px
 }
 #three{
-    background-image: url("img/img_lights22.jpg") !important;
+    background-image: url("img_lights22.jpg") !important;
     width: 100px;
     height:67px
 }
